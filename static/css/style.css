@@ -1,3 +1,29 @@
 .center_text_blog{
     text-align: start;
 }
+
+.container{
+    margin: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.btn_init {
+    background-color: #DBA800;
+    padding: 10px;
+    width: 480px;
+    margin: 15px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.btn_app{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+
+}
+

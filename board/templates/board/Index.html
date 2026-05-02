@@ -1,6 +1,14 @@
 {% extends "base.html"%} {% block content %}
-<h1>Knoledge Management</h1>
+<h1>Mejorando Mis habilidades de Comunicacion</h1>
 <p>Today is {{today}}</p>
-<a href="{% url 'notes.list' %}" class="btn btn-primary">Learning About Communication Estrategica</a>
-<a href="#" class="btn btn-primary">Django Project Configuration</a>
+<div class="container">
+    <div class="btn_init">
+        <a href="{% url 'notes.list' %}" class="btn_app">Learning About Communication Estrategica</a>
+    </div>
+    <div class="btn_init">
+        <a href="#" class="btn_app">Django Project Configuration</a>
+    </div>
+</div>
+
+
 {% endblock %}
