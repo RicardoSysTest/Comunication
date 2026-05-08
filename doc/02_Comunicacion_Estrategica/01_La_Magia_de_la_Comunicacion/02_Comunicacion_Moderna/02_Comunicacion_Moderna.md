@@ -1,5 +1,28 @@
 # La Comunicacion Moderna. 
 
+Partamos del modelo coumunicacion clasico Emisor-Mensaje-Receptor. En primera instancia diremos que este modelo esta imcompleto
+![[Pasted image 20260204190221.png]]
+porque no considera que tambien hay un medio, momento y forma. Que pasa cuando tenemos a un Receptor que te entiende mejor de lo que tu te escuchas y que pasa cuando el mensaje se ha enviado de la mejor forma posible pero el recepto no lo ha entendido. Esto quiere decir que hay un buen receptor y un mal emisor. 
+
+De aqui diremos que hay un buen emisor que sera aquel que distingue el tipo de couminicacion que empleara para transmitir un mensaje dependiendo de lo que quiere transmiter, es decir se comunica de forma estrategica, no improvisada. Los mejores emisores dintingen:
+* Hechos de Opiniones
+* Sentimos de Opiniones
+* Consecuencias
+* Acuerdos
+* Justificaciones 
+En general diremos que un buen emisor esta mas consciente de los elementos component la informacion y la estructura misma del lenguaje. 
+
+Por ultimo diremos que un buen mensaje sera aquel que tenga:
+* Finalidad.
+* Lugar y Tiempo
+* Monotematico
+* Adaptacion a los Interlocutores.
+
+Los mejores escuchas conectan con el ritmo, el estado y el contenido del mensaje.
+
+### Ejericio: Se un Mejor Emisor. 
+Practica por escrbir 7 mensajes que tengan tengan la estructura que hemos definido
+
 ## Modelo de Comunicacion Basico (Tradicional). 
 
 La forma, el medio o el contexto son clave en nuestra comunicacion sin embargo como primer definicion de lo que es couminicacion diremos que esta se encuentra constituida de tres elementos: 
