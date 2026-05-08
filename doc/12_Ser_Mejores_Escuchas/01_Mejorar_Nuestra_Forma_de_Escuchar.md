@@ -1,4 +1,12 @@
 # Mejorar nuestra forma de Escuchar.
+Nos adapatmos para comunicar mejor a traves del rapport. El rapport es el fenomeno en el que 
+dos o mas personas sienten que estan en *sintonia* psicologica y emocional (simpatia) porque 
+sienten similares o se relacionan bien entre si.  Rapport no es empatia, empatia es la capacidad
+de moverme desde mi psicologia y experiencia a la vision del mundo desde tu perspectiva
+## El Rapport como herramienta para conectar con el ritmo del otro
+Los seres humanos nos sentimos mas cercanos o en **confianza** cuando detectamos que los sujetos con 
+los que nos comunicamos tienen cosas en comun, esto normalmente ocurre cuando los individuos
+no estan familiarizados unos con otros. 
 
 ## ¿Como mejorar nuestra capacidad de escuchar?
 Cuando una persona es un buen recpetor, este adiquire la capacidad de correr el mesaje del emisor.
