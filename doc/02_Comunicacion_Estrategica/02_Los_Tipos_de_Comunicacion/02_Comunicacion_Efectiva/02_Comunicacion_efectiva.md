@@ -1,9 +1,7 @@
 # Comunicacion Efectiva
-
-
-- [ ] Es clara y precisa.
-- [ ] Sus Preguntas son cerradas y orientadas a la accion y los compromisos
-- [ ] Idelar para hacer ofertas o peticiones (propuestas), asi como para responder con agradecimientos o retroalimentacion 
+* Es clara y precisa:Clara, seca y corta. Normalmente se ve reflejada en una oferta o una peticion
+* Sus Preguntas son cerradas y orientadas a la accion y los compromisos.  Que, como, quien, donde, cuando. Cuando llegamos al porque o paraque la comunicacion se vuelve en reflexiva y eso se vuelve un distractor en este tipo de comunicacion.
+* Ideal para hacer ofertas(yo soy responsable) o peticiones (propuestas - responsable los otros), asi como para responder con agradecimientos o retroalimentacion. Respondemos con agradecimientos, reclamos, disculpas o retroalimentacion
 
 
 Se relaciona con la generacion de acuerdos. (Corta / Sintetica / Fria)
