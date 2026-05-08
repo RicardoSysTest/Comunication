@@ -16,3 +16,16 @@ Dentro de la cultura laboral la comunicacion ayuda a establecer confianza y cola
 2. Aprender y **mejorar** a partir de lo que conocemos
 3. Generar **vinculos** de mutuo beneficio.
 
+El ser humano desarrollo un tipo de comunicacion  diferente a la que se observa con otros animales. Porque somos la especie docminante, no somos el mas fuerte o el mas rapido. Asi que por eso diremos que debido al tipo de comunicacion.  En su libro *Sapiens* Yuval Noah Harari, detalla las ventajs que tuvimos como especie para poder comunicarnos.  Al ser un animal indefenso el humano tuvo que aprender a colaborar para sobrevivir y para lograr mecanismos complejos de colaboracion tuvimos que desarrollar mecanicos mas complejos de comunicacion.  La comunicacion humana nos permite:
+
+1. Vincular solidamente en grandes numeros
+2. Hacer acuerdo para lograr un objetivo
+3. Aprender de lo que experimentamos para refinar nuestor dominio
+
+Uno de los atributos mas complejos de nuestra comunicacion es que nos permite hablar sobre conceptos abstractos, sentimientos y cosas que no podemos percibir con nuestros sentidos (podemos comunicar los imperceptible), pero si reconocer y describir. 
+
+Algunos mamiferos tienen difultades para coperar en grupos de mas de 100 indiviudos mientras que los homo sapiens tenemos la capacidad sin precedentes de coperar flexiblemente en gran numero.
+
+Gracias a la Revolucion Cognitiva  la humanidad desarrollo un lenguaje centrado en la ficcion, pues a través de los relatos y mitos hemos conseguido acuerdos con todo tipo de ideas, mitos y hechos.  Para Yuval parece ser que nuestra comunicacion basada en racionalidad y logica no nos permite coodinar a una gran numero de indiviudos.
+
+En un conexto laboral una buena comunicacion nos permite establecer  una cultura de confianza y colaboracion
